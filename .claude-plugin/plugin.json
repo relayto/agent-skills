@@ -1,0 +1,21 @@
+{
+  "name": "relayto",
+  "version": "2.0.0",
+  "description": "The RELAYTO MCP server plus skills to build web pages for RELAYTO (editable in its web-content editor, published through the server) and to read any site published on RELAYTO.",
+  "author": {
+    "name": "RELAYTO",
+    "url": "https://relayto.com"
+  },
+  "homepage": "https://relayto.com",
+  "privacyPolicyUrl": "https://relayto.com/e/terms-conditions-policies-plans-rlaqj4cwhqi94#page=10",
+  "repository": "https://github.com/relayto/agent-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "relayto",
+    "mcp",
+    "interactive content",
+    "pdf",
+    "hubs",
+    "analytics"
+  ]
+}
